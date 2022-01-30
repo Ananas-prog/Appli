@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="@string/menu_str_home"
+        android:icon="@drawable/bicycle_icon_bike_vector_illustration_flat_design_130312456"
+        />
+    <item
+        android:id="@+id/chat"
+        android:title="@string/menu_str_chat"
+        android:icon="@drawable/running_icon_png_28"
+        />
+    <item
+        android:id="@+id/profil"
+        android:title="@string/menu_str_profil"
+        android:icon="@drawable/running_icon_png_28"
+        />
+</menu>
+

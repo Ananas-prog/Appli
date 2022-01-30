@@ -1,6 +1,17 @@
 <resources>
-    <string name="app_name">Appli</string>
+    <string name="app_name">SportDroid</string>
     <string name="Titre_page">Mes entrainements aujourd hui</string>
     <string name="ajout_entrainement">Ajouter Entrainement</string>
+    <!-- BOTTOM NAVIGATION VIEW -->
+    <string name="bottom_navigation_menu_Home">Home</string>
+    <string name="bottom_navigation_menu_Calendrier">Calendrier</string>
+    <string name="bottom_navigation_menu_Entrainement">Entrainement</string>
 
+    <string name="app_namee">BottomNavigationView</string>
+    <string name="menu_str_home">Accueil</string>
+    <string name="menu_str_chat">Chat</string>
+    <string name="menu_str_profil">Profil</string>
+    <string name="tv_str_content_home">Fenêtre de l\'accueil</string>
+    <string name="tv_str_content_chat">Fenêtre du chat</string>
+    <string name="tv_str_content_profil">Fenêtre de votre profil</string>
 </resources>
